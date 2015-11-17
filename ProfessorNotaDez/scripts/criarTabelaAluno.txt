@@ -1,0 +1,1 @@
+CREATE TABLE aluno(turma TEXT, nome TEXT, notaBimestre1 TEXT, notaBimestre2 TEXT, notaBimestre3 TEXT, notaBimestre4 TEXT, media TEXT, situacao TEXT);
